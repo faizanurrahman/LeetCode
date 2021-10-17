@@ -17,6 +17,7 @@ Now I'm using a Chrome Extension I developed -- [LeetCoder](https://chrome.googl
 \# | Title | Difficulty | Solution
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
+2 | ProblemTest | Medium | [Solution](leetcode/2.%20ProblemTest)
 
 # License
 
