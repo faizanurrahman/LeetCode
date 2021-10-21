@@ -11,5 +11,5 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 55 | Jump Game | Medium | [Solution](solution/55.%20Jump%20Game)
 151 | Reverse Words in a String | Medium | [Solution](solution/151.%20Reverse%20Words%20in%20a%20String)
 238 | Product of Array Except Self | Medium | [Solution](solution/238.%20Product%20of%20Array%20Except%20Self)
+380 | Insert Delete GetRandom O(1) | Medium | [Solution](solution/380.%20Insert%20Delete%20GetRandom%20O%281%29)
 496 | Next Greater Element I | Easy | [Solution](solution/496.%20Next%20Greater%20Element%20I)
-23232 | Virtual Problem |  | [Solution](solution/23232.%20Virtual%20Problem)
