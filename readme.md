@@ -10,6 +10,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 36 | Valid Sudoku | Medium | [Solution](solution/36.%20Valid%20Sudoku)
 45 | Jump Game II | Medium | [Solution](solution/45.%20Jump%20Game%20II)
 55 | Jump Game | Medium | [Solution](solution/55.%20Jump%20Game)
+74 | Search a 2D Matrix | Medium | [Solution](solution/74.%20Search%20a%202D%20Matrix)
 118 | Pascal's Triangle | Easy | [Solution](solution/118.%20Pascal%27s%20Triangle)
 151 | Reverse Words in a String | Medium | [Solution](solution/151.%20Reverse%20Words%20in%20a%20String)
 238 | Product of Array Except Self | Medium | [Solution](solution/238.%20Product%20of%20Array%20Except%20Self)
