@@ -13,6 +13,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 74 | Search a 2D Matrix | Medium | [Solution](solution/74.%20Search%20a%202D%20Matrix)
 118 | Pascal's Triangle | Easy | [Solution](solution/118.%20Pascal%27s%20Triangle)
 151 | Reverse Words in a String | Medium | [Solution](solution/151.%20Reverse%20Words%20in%20a%20String)
+202 | Happy Number | Easy | [Solution](solution/202.%20Happy%20Number)
 238 | Product of Array Except Self | Medium | [Solution](solution/238.%20Product%20of%20Array%20Except%20Self)
 380 | Insert Delete GetRandom O(1) | Medium | [Solution](solution/380.%20Insert%20Delete%20GetRandom%20O%281%29)
 383 | Ransom Note | Easy | [Solution](solution/383.%20Ransom%20Note)
