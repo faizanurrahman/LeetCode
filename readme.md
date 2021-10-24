@@ -12,6 +12,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 45 | Jump Game II | Medium | [Solution](solution/45.%20Jump%20Game%20II)
 55 | Jump Game | Medium | [Solution](solution/55.%20Jump%20Game)
 74 | Search a 2D Matrix | Medium | [Solution](solution/74.%20Search%20a%202D%20Matrix)
+83 | Remove Duplicates from Sorted List | Easy | [Solution](solution/83.%20Remove%20Duplicates%20from%20Sorted%20List)
 118 | Pascal's Triangle | Easy | [Solution](solution/118.%20Pascal%27s%20Triangle)
 151 | Reverse Words in a String | Medium | [Solution](solution/151.%20Reverse%20Words%20in%20a%20String)
 153 | Find Minimum in Rotated Sorted Array | Medium | [Solution](solution/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
