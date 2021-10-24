@@ -17,6 +17,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 94 | Binary Tree Inorder Traversal | Easy | [Solution](solution/94.%20Binary%20Tree%20Inorder%20Traversal)
 118 | Pascal's Triangle | Easy | [Solution](solution/118.%20Pascal%27s%20Triangle)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](solution/144.%20Binary%20Tree%20Preorder%20Traversal)
+145 | Binary Tree Postorder Traversal | Easy | [Solution](solution/145.%20Binary%20Tree%20Postorder%20Traversal)
 151 | Reverse Words in a String | Medium | [Solution](solution/151.%20Reverse%20Words%20in%20a%20String)
 153 | Find Minimum in Rotated Sorted Array | Medium | [Solution](solution/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 202 | Happy Number | Easy | [Solution](solution/202.%20Happy%20Number)
