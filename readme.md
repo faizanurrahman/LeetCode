@@ -7,6 +7,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 \# | Title | Difficulty | Solution
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](solution/1.%20Two%20Sum)
+21 | Merge Two Sorted Lists | Easy | [Solution](solution/21.%20Merge%20Two%20Sorted%20Lists)
 36 | Valid Sudoku | Medium | [Solution](solution/36.%20Valid%20Sudoku)
 45 | Jump Game II | Medium | [Solution](solution/45.%20Jump%20Game%20II)
 55 | Jump Game | Medium | [Solution](solution/55.%20Jump%20Game)
