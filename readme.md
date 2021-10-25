@@ -15,6 +15,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 74 | Search a 2D Matrix | Medium | [Solution](solution/74.%20Search%20a%202D%20Matrix)
 83 | Remove Duplicates from Sorted List | Easy | [Solution](solution/83.%20Remove%20Duplicates%20from%20Sorted%20List)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](solution/94.%20Binary%20Tree%20Inorder%20Traversal)
+101 | Symmetric Tree | Easy | [Solution](solution/101.%20Symmetric%20Tree)
 104 | Maximum Depth of Binary Tree | Easy | [Solution](solution/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 118 | Pascal's Triangle | Easy | [Solution](solution/118.%20Pascal%27s%20Triangle)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](solution/144.%20Binary%20Tree%20Preorder%20Traversal)
