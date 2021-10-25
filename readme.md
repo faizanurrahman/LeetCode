@@ -37,3 +37,4 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 451 | Sort Characters By Frequency | Medium | [Solution](solution/451.%20Sort%20Characters%20By%20Frequency)
 496 | Next Greater Element I | Easy | [Solution](solution/496.%20Next%20Greater%20Element%20I)
 700 | Search in a Binary Search Tree | Easy | [Solution](solution/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+876 | Middle of the Linked List | Easy | [Solution](solution/876.%20Middle%20of%20the%20Linked%20List)
