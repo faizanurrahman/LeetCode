@@ -14,6 +14,7 @@ My Javascript Code for LeetCode. Feel free to use and contribute.
 45 | Jump Game II | Medium | [Solution](solution/45.%20Jump%20Game%20II)
 55 | Jump Game | Medium | [Solution](solution/55.%20Jump%20Game)
 74 | Search a 2D Matrix | Medium | [Solution](solution/74.%20Search%20a%202D%20Matrix)
+75 | Sort Colors | Medium | [Solution](solution/75.%20Sort%20Colors)
 83 | Remove Duplicates from Sorted List | Easy | [Solution](solution/83.%20Remove%20Duplicates%20from%20Sorted%20List)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](solution/94.%20Binary%20Tree%20Inorder%20Traversal)
 101 | Symmetric Tree | Easy | [Solution](solution/101.%20Symmetric%20Tree)
